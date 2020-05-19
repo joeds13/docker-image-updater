@@ -1,0 +1,5 @@
+---
+images:
+  # -
+  #   source: "repo/example" # Used "library/" for dockerhub
+  #   version: "0.0.0"
